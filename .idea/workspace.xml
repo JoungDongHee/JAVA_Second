@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fd639f-f6ba-497e-9efd-d75d514b822a" name="변경" comment="2023.01.28&#10;&#10;Chapter 01 clear">
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_01_Operator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_02_Operator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_03_Operator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_04_Operator4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_05_Operator5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_Quiz_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/JAVA_Second",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
