@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77fd639f-f6ba-497e-9efd-d75d514b822a" name="변경" comment="2023.01.29&#10;&#10;Chapter 02 clear">
-      <change afterPath="$PROJECT_DIR$/src/chap_03/_01_String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_03/_02_String2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_03/_03_StringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_03/_04_EscapeSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_03/_Quiz_03.java" afterDir="false" />
+    <list default="true" id="77fd639f-f6ba-497e-9efd-d75d514b822a" name="변경" comment="2023.01.30&#10;&#10;Chapter 03 clear">
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_01_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_02_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_03_ElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_04_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_05_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_06_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_07_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_08_NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_09_MultipleTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_10_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_11_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_04/_Quiz_04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675005558135</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2023.01.30&#10;&#10;Chapter 03 clear">
+      <created>1675095078264</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675095078264</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +99,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023.01.28&#10;&#10;Chapter 01 clear" />
     <MESSAGE value="2023.01.29&#10;&#10;Chapter 02 clear" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.01.29&#10;&#10;Chapter 02 clear" />
+    <MESSAGE value="2023.01.30&#10;&#10;Chapter 03 clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.01.30&#10;&#10;Chapter 03 clear" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA_Second$_11_Continue.ic" NAME="_11_Continue 커버리지 결과" MODIFIED="1675184046320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>chap_04.*</FILTER>
+    </SUITE>
   </component>
 </project>
