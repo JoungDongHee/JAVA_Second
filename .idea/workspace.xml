@@ -4,13 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77fd639f-f6ba-497e-9efd-d75d514b822a" name="변경" comment="2023.01.30&#10;&#10;Chapter 03 clear">
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_04_ParameterAndReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_05_OverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_06_WhenToUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_07_VariableScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_08_MainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_Quiz_06.java" afterDir="false" />
+    <list default="true" id="77fd639f-f6ba-497e-9efd-d75d514b822a" name="변경" comment="2023.02.05&#10;&#10;Chapter 05 clear">
+      <change afterPath="$PROJECT_DIR$/src/chap_07/BalckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/BlackBoxRefurbish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_01_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_02_InstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_03_ClassVariavles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_04_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_05_MethodOrverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_06_ClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_07_This.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_08_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_09_GetterSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_10_AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_11_Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_12_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/FactoryCam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/SpeedCam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/_00_AccessModifierTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +32,8 @@
   </component>
   <component name="ChangesViewManager">
     <option name="groupingKeys">
-      <option value="module" />
       <option value="directory" />
+      <option value="module" />
     </option>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -43,15 +55,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Administrator/Desktop/JAVA_Second",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/JAVA_Second&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="_09_GetterSetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_07._09_GetterSetter" />
+      <module name="Java_Second" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션._09_GetterSetter" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
