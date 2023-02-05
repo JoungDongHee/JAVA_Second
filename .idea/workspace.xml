@@ -5,24 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fd639f-f6ba-497e-9efd-d75d514b822a" name="변경" comment="2023.01.30&#10;&#10;Chapter 03 clear">
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_01_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_02_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_03_ElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_04_SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_05_For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_06_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_07_DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_08_NestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_09_MultipleTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_10_Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_11_Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_04/_Quiz_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_04_ParameterAndReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_05_OverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_06_WhenToUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_07_VariableScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_08_MainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_Quiz_06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,15 +43,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/JAVA_Second&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/JAVA_Second",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -102,7 +102,26 @@
     <MESSAGE value="2023.01.30&#10;&#10;Chapter 03 clear" />
     <option name="LAST_COMMIT_MESSAGE" value="2023.01.30&#10;&#10;Chapter 03 clear" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chap_05/_01_Array.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chap_05/_03_MultiArray.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA_Second$_02_Parameter.ic" NAME="_02_Parameter 커버리지 결과" MODIFIED="1675568410789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>chap_06.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/JAVA_Second$_11_Continue.ic" NAME="_11_Continue 커버리지 결과" MODIFIED="1675184046320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>chap_04.*</FILTER>
     </SUITE>
