@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fd639f-f6ba-497e-9efd-d75d514b822a" name="변경" comment="2023.02.05&#10;&#10;Chapter 05 clear">
-      <change afterPath="$PROJECT_DIR$/src/chap_07/BalckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/BlackBoxRefurbish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_01_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_02_InstanceVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_03_ClassVariavles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_04_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_05_MethodOrverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_06_ClassMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_07_This.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_08_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_09_GetterSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_10_AccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_11_Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_12_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/FactoryCam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/SpeedCam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_08/_00_AccessModifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/Burger/CheeseBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/Burger/HamBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/Burger/ShrimBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_Quiz_07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
