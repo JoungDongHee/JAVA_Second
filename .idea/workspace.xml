@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fd639f-f6ba-497e-9efd-d75d514b822a" name="변경" comment="2023.02.05&#10;&#10;Chapter 05 clear">
-      <change afterPath="$PROJECT_DIR$/src/chap_09/_Quiz_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_10/_01_AnonynousClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_10/_02_AnonynousClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_10/_03_Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_10/_04_FunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_10/_05_Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_10/converter/ConbertibleWithTwoParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_10/converter/Convertible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_10/converter/ConvertibleWithNoParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_10/converter/ConvertibleWithReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_10/converter/KRWConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_11/_01_TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_11/_02_Catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_11/_03_Throw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_11/_04_Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_11/_05_TryWithResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_11/_06_CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_11/_07_Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_12/_01_Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_12/_02_Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_12/_03_Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_12/_04_MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_12/_05_Synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_12/clean/CleanRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_12/clean/CleanThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_12/clean/Room.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
